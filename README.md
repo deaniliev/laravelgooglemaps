@@ -41,7 +41,7 @@ This repo aims to use google map features in laravel 5.x. It is easy to use and 
 Add in composer.json
 ```
   "require": {
-      "farhanwazir/laravelgooglemaps": "^2.3"
+      "deaniliev/laravelgooglemaps": "^2.3"
       ----
   }
 ```
@@ -51,7 +51,7 @@ Then
 ```
 Or install via composer cli
 ```
-  composer require farhanwazir/laravelgooglemaps
+  composer require deaniliev/laravelgooglemaps
 ```
 
 Add service provider `config/app.php`
